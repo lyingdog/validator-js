@@ -1,5 +1,5 @@
 {
-  "name": "validator",
+  "name": "verify-data-js",
   "version": "1.0.0",
   "description": "validator data",
   "main": "./dist/validator.js",
