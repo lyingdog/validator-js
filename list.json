@@ -1,0 +1,14 @@
+{
+  "REQUIRED": "必须输入的字段",
+  "IS_DATE": "日期",
+  "IS_DIGITS": "整数",
+  "MAX": "最大数字",
+  "MIN": "最小数字",
+  "MAX_LENGTH": "最大长度",
+  "MIN_LENGTH": "最小长度",
+  "REGEXP": "正则",
+  "PHONE": "电话号码",
+  "TEL": "手机号码",
+  "EMAIL": "邮件",
+  "TYPE": "类型"
+}
