@@ -1,6 +1,6 @@
 ## verify-data-js
-用于做数据的验证
-
+用于做数据对象中值的验证
+github地址：https://github.com/lyingdog/validator-js
 ## 安装
 ```
 npm install verify-data-js
